@@ -2764,3 +2764,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-16.52.03:491][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1055
 [2020.07.10-16.52.03:491][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1054
 [2020.07.10-16.52.03:491][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1053
+[2020.07.10-16.52.04:053][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1052
+[2020.07.10-16.52.04:612][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1051
+[2020.07.10-16.52.05:172][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1050
